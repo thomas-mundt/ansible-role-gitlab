@@ -1,4 +1,4 @@
-# Ansible Role: GitLab
+# Ansible Role: GitLab - 01
 
 [![CI](https://github.com/geerlingguy/ansible-role-gitlab/workflows/CI/badge.svg?event=push)](https://github.com/geerlingguy/ansible-role-gitlab/actions?query=workflow%3ACI)
 
